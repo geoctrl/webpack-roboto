@@ -12,7 +12,7 @@
   },
 	"keywords": ["webpack", "sass", "js", "roboto", "font"],
   "author": "@geoctrl",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/geoctrl/webpack-roboto/issues"
   },
